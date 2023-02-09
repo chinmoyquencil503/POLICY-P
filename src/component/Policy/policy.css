@@ -53,7 +53,7 @@ font-weight: 600;
 .policy-main-card p {
 	text-align: center;
 	font-weight: 600;
-	font-size: 1.24vw;
+	font-size: 20px;
 	margin-top: 5px;
 	margin-bottom: 20px;
 	color: aliceblue;
@@ -71,6 +71,7 @@ font-weight: 600;
 	height: 80%;
 }
 .policy-main-card img {
+	margin: 9px;
 	width: 20px;
 	color: aliceblue;
 }
@@ -87,6 +88,8 @@ font-weight: 600;
 	
 	}
 	.policy-main-card button {
-		font-size: 12px;
+		font-size: 15px;
 	}
 }
+
+

@@ -1,6 +1,7 @@
 /** @format */
 
 .login-cantainer {
+	padding: 20px;
 	padding-top: 30px;
 	width: 100%;
 	display: flex;
@@ -25,6 +26,8 @@
 .Right-login h1 {
 	color: aliceblue;
 }
+.login-type p{font-size: 15px;
+font-weight: 600;}
 .login-input-username {
 	width: 80%;
 	border-radius: 8px;
@@ -135,4 +138,5 @@ a.login-type {
 
 		font-weight: 700;
 	}
+	.login-type p{font-size: 15px;}
 }
